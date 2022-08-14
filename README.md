@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me **skyxmao@qq.com**
-- 💬 Blog: https://www.cnblogs.com/skyxmao
+- 💬 Blog: https://xmao.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
